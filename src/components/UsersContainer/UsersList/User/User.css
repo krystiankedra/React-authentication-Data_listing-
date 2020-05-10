@@ -1,0 +1,13 @@
+.card-header {
+  background-color: #0d47a1;
+  color: #ffffff;
+}
+
+.card-padding {
+  margin: 20px 0;
+}
+
+.content-text {
+  padding: 10px 0;
+  font-size: 20px;
+}
